@@ -1,0 +1,21 @@
+<style>
+.slots {
+  width: 48px;
+  height: 94px;
+  border: 2px solid;
+  float: left;
+}
+.slots .wrapper {
+  width: 46px;
+}
+</style>
+
+<div class="slots" id="slots_a">
+  <div class="wrapper"></div>
+</div>
+<div class="slots" id="slots_b">
+  <div class="wrapper"></div>
+</div>
+<div class="slots" id="slots_c">
+  <div class="wrapper"></div>
+</div>
